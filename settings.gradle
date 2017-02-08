@@ -1,0 +1,3 @@
+rootProject.name = 'ShiftCalendar'
+include 'jdbc',
+        'servlets'
